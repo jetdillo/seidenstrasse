@@ -32,3 +32,6 @@ A recent version of GNUplot for the .plot files.
    I'm not sure how much will be done here with this specific code/data. It was pretty much a one-off. Ideally
    the next revision would have things like a Gyro or proper IMU included so we could map the orientation as well as acceleration, etc.  I had a lot of fun throwing this together in a few hours. Maybe if I'm lucky enough, I'll be able to deploy an improved version at the 2015 Camp this summer.  
    
+  I am going to work on a proper 3D-printable capsule with a solid platform that a sensor rig could be installed in, something that could contain a smaller Arduino-alike, the aforementioned IMU, perhaps a Wifi-scanner or other interesting bits of kit. Stay tuned. 
+
+   
